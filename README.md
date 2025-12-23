@@ -34,8 +34,8 @@ Humanoid BOT is an automated tool designed to streamline onchain operations acro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/Humanoid-BOT.git
-cd Humanoid-BOT
+git clone https://github.com/dopezayn/Humanoid-Bot.git
+cd Humanoid-Bot
 ```
 
 ### 2. Install Dependencies
